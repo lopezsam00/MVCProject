@@ -1,1 +1,7 @@
 Sup my fancy nugget
+
+public actionresult Index()
+{
+
+Return view();
+}
